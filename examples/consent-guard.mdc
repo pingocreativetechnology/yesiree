@@ -1,0 +1,5 @@
+---
+description: Agent Consent Guard security rules
+alwaysApply: true
+---
+<!-- Cursor rule: save as .cursor/rules/consent-guard.mdc and paste the contents of ../PROMPT.md below this line. -->
